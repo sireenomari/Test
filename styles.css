@@ -1,0 +1,64 @@
+.content{
+    font-size: 36px;
+}
+.margin20{
+    margin: 20px;;
+}
+.headerLogo {
+    padding: 5px;
+    padding-left: 10px;
+    vertical-align: middle;
+  }
+  .logo {
+    background: url(/Images/logo.png) no-repeat 0 0;
+    min-height: 70px;
+    vertical-align: middle;
+  }
+  .headerBottomBanner {
+    background-color: #003DA5;
+    height: 20px;
+  }
+  .headerMessage {
+    color: white;
+    font-weight: bold;
+    vertical-align: middle;
+    padding: 0px;
+    line-height: 20px;
+    float: left;
+    margin-left: 80px;
+  }
+  .welcomeMessage {
+    color: white;
+    font-weight: bold;
+    vertical-align: middle;
+    padding: 0px;
+    line-height: 20px;
+    float: right;
+    margin-right: 100px;
+  }
+  .footer {
+    height: 30px;
+    background-color: #E2E2E2;
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 99;
+  }
+  .footerTop {
+    width: 100%;
+    color: black;
+    padding: 0px;
+    margin: 0px;
+    height: .3px !important;
+    border: solid .3px;
+    background-color: black;
+  }
+
+  .footerContent {
+    padding: 5PX;
+    font-size: x-small;
+    padding-left: 20px;
+  }
